@@ -10,7 +10,7 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  @Get('par-impar/:numero')
+  @Get(':numero')
   getNumero(@Param() params): string{
     return this.appService.getParOuImpar(+params.numero)
   }
