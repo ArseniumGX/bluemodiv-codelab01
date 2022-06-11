@@ -1,7 +1,6 @@
-# Blue Edtech
-## Fullstack II - Codelab (30/11)
+## Fullstack (30/11)
 
-Códigos fonte dos exercícios resolvidos do desenvolvidos no dia 30/11, semana 1, backend, do curso de certificação de devs da Blue Edtech
+Códigos fonte dos exercícios resolvidos do desenvolvidos no dia 30/11
 
 ### Questões
 #### Exercício 1
